@@ -8,30 +8,30 @@ El contenido se ha organizado a partir de los materiales de estudio proporcionad
 
 ### Introducción y configuración
 
-1. [Introducción a Kea](CAPITULO-01-INTRODUCCION-A-KEA.md)
-2. [Configuración de DHCPv4](CAPITULO-02-CONFIGURACION-DHCPV4.md)
-3. [Reservas y concesiones](CAPITULO-03-RESERVAS-Y-LEASES.md)
-4. [Registros y almacenamiento](CAPITULO-04-REGISTROS-Y-ALMACENAMIENTO.md)
+1. [Introducción a Kea](capitulos/01-introduccion_a_kea.md)
+2. [Configuración de DHCPv4](capitulos/02-configuracion_DHCPV4.md)
+3. [Reservas y concesiones](capitulos/03-reservas_y_leases.md)
+4. [Registros y almacenamiento](capitulos/04-registros_y_almacenamiento.md)
 
 ### Administración y seguridad
 
-5. [API y Control Agent](CAPITULO-05-API-Y-CONTROL-AGENT.md)
-6. [Seguridad de Kea](CAPITULO-06-SEGURIDAD-DE-KEA.md)
+5. [API y Control Agent](capitulos/05-api_y_control_agent.md)
+6. [Seguridad de Kea](capitulos/06-seguridad_de_kea.md)
 
 ### Alta disponibilidad y resolución de problemas
 
-7. [Alta disponibilidad de Kea](CAPITULO-07-ALTA-DISPONIBILIDAD.md)
-8. [Gateway y redundancia de red](CAPITULO-08-GATEWAY-Y-REDUNDANCIA.md)
-9. [Verificación y pruebas](CAPITULO-09-VERIFICACION-Y-PRUEBAS.md)
-10. [Resolución de problemas](CAPITULO-10-RESOLUCION-DE-PROBLEMAS.md)
+7. [Alta disponibilidad de Kea](capitulos/07-alta_disponibilidad.md)
+8. [Gateway y redundancia de red](capitulos/08-gateway_y_redundancia.md)
+9. [Verificación y pruebas](capitulos/09-verificacion_y_pruebas.md)
+10. [Resolución de problemas](capitulos/10-resolucion_de_problemas.md)
 
 ### Material complementario
 
 - [Ruta de aprendizaje](ruta_de_aprendizaje.md)
-- [Ejercicios](EJERCICIOS.md)
-- [Práctica integradora](PRACTICA-INTEGRADORA.md)
-- [Soluciones orientativas](SOLUCIONES.md)
-- [Errores frecuentes](ERRORES-FRECUENTES.md)
+- [Ejercicios](ejercicios.md)
+- [Práctica integradora](practica_integradora.md)
+- [Soluciones orientativas](soluciones.md)
+- [Errores frecuentes](errores_frecuentes.md)
 
 ## Cómo utilizar la guía
 
