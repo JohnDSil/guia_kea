@@ -27,7 +27,7 @@ El contenido se ha organizado a partir de los materiales de estudio proporcionad
 
 ### Material complementario
 
-- [Ruta de aprendizaje](RUTA-DE-APRENDIZAJE.md)
+- [Ruta de aprendizaje](ruta_de_aprendizaje.md)
 - [Ejercicios](EJERCICIOS.md)
 - [Práctica integradora](PRACTICA-INTEGRADORA.md)
 - [Soluciones orientativas](SOLUCIONES.md)
